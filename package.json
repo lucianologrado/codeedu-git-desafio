@@ -1,0 +1,8 @@
+{
+  "name": "codeedu-git-desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lucianologrado/codeedu-git-desafio.git",
+  "author": "Luciano Logrado <luciano@aptools.com.br>",
+  "license": "MIT"
+}
